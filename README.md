@@ -1,55 +1,44 @@
-# Hi there, I'm Vishal Yadav 👋
+# Hello, I'm Vishal Yadav 👋
 
-### 👨‍💻 .NET Backend & Full-Stack Developer | System Architect
+### 🚀 Backend & Full-Stack .NET Engineer | System Architect
 
-I am a Software Developer specializing in building high-performance, secure, and scalable enterprise applications. My transition from industrial hardware integration (OCR/Computer Vision) to modern distributed web systems has given me a unique, hardware-to-cloud perspective on software architecture.
+I am a Software Developer specializing in building **high-performance, secure, and scalable enterprise applications**. I focus on bridging the gap between hardware integration and modern cloud-based backends.
 
-Currently, I am building **[CryptoKeyLab](https://github.com/COxRIPMIZO/CryptoKeyLab)**, a Cryptography-as-a-Service (CaaS) platform using .NET 9, Clean Architecture, and Blazor.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Backend & Architecture:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET_8_%2F_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-**Frontend & Web:**
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Performance:**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-E34F26?style=for-the-badge)
-
-**Specialized Tools:**
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Scalar](https://img.shields.io/badge/-Scalar_API-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+My passion lies in **Clean Architecture**, **API Security**, and **Cryptography**. I transform complex business problems into modular, maintainable, and high-throughput systems.
 
 ---
 
-### 🚀 What I'm Currently Working On
-
-- 🔐 **CryptoKeyLab:** Engineering a Zero-Trust API gateway and dynamic reflection-based hashing engine.
-- 👁️ **Industrial OCR:** Optimizing sub-millisecond character and QR recognition using OpenCV and ZXing.
-- ⚙️ **Performance Tuning:** Writing raw Dapper queries and Stored Procedures for maximum database throughput.
+### 🎯 My Core Expertise
+*   **Backend Engineering:** C# | .NET 8/9 | Web API | Clean Architecture | Worker Services
+*   **Security & Crypto:** Cryptographic Algorithms (RSA, AES, BLAKE3, HMAC) | Zero-Trust API Security | Middleware Gatekeepers
+*   **Database Systems:** SQL Server | Dapper | ADO.NET | Stored Procedure Optimization
+*   **Frontend Engineering:** Blazor | MudBlazor | Responsive SaaS Dashboards
+*   **Industrial/Systems:** Computer Vision (OpenCV) | OCR | Hardware Integration
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Featured Project: [CryptoKeyLab](https://github.com/COxRIPMIZO/CryptoKeyLab)
+**Cryptography-as-a-Service (CaaS) Platform**
+An enterprise-grade cryptographic utility built for the AI era.
+- **Architectural Excellence:** Implemented **Clean Architecture** (Separation of Domain, Core, Infrastructure).
+- **Security:** Built a custom **Zero-Trust Middleware Gatekeeper** to enforce API Key validation and rate-limiting.
+- **Performance:** Integrated **BLAKE3** for sub-millisecond hashing and used **Dapper** for high-throughput SQL operations.
+- **Dynamic Logic:** Built a **Reflection-based Factory** to allow plug-and-play cryptographic algorithm expansion.
+
+---
+
+### 📊 GitHub Stats & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COxRIPMIZO&show_icons=true&theme=radical&hide_border=true" alt="Vishal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=COxRIPMIZO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COxRIPMIZO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaxsensei)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyvishal2001@gmail.com)
+
+---
+*Building systems that are secure by design and scalable by architecture.*
