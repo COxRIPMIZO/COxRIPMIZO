@@ -43,9 +43,9 @@ Currently, I am building **[CryptoKeyLab](https://github.com/COxRIPMIZO/CryptoKe
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=COxRIPMIZO&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=COxRIPMIZO&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=COxRIPMIZO&layout=compact&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COxRIPMIZO&layout=compact&theme=radical&hide_border=true)
 
 ---
 
