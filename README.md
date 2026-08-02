@@ -42,11 +42,11 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=coxripmizo&style=for-the-badge&color=blueviolet)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
+![](https://img.shields.io/github/followers/coxripmizo?style=for-the-badge)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge)
+![](https://img.shields.io/github/stars/coxripmizo?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
