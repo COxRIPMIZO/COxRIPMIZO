@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal Yadav 👋
+# Hi there👋
 
 ### 👨‍💻 .NET Backend & Full-Stack Developer | System Architect
 
